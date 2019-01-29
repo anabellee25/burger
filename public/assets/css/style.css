@@ -1,0 +1,51 @@
+body {
+    background-image: url("../fastfoodback.jpg");
+}
+
+#burgerpic {
+    margin: auto;
+    text-align: center;
+    width: 350px;
+    height: 350px;
+ 
+}
+#maincontainer  {
+    text-align: center;
+    background-color: orange;
+    height: 80%;
+    font-family: 'Fredoka One', cursive;
+}
+
+.burgerAvailable {
+background-color: teal;
+padding: 5px;
+margin: 3px;;
+border-radius: 25px;
+color: white;
+font-family: 'Gloria Hallelujah', cursive;
+}
+
+.burgerEaten {
+background-color: lightgray;
+padding: 5px;
+margin: 3px;;
+border-radius: 25px;
+color: darkgray;
+font-family: 'Gloria Hallelujah', cursive;
+}
+
+#name {
+    color: black;
+    width: 65%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.addBurgerButton {
+background-color: teal;
+padding: 5px;
+margin: 3px;;
+border-radius: 25px;
+color: white;
+font-family: 'Gloria Hallelujah', cursive;
+}

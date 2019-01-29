@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/anabellee25/burger/issues"
   },
-  "homepage": "https://github.com/anabellee25/burger#readme"
+  "homepage": "https://github.com/anabellee25/burger#readme",
+  "dependencies": {
+    "express-handlebars": "^3.0.0"
+  }
 }
